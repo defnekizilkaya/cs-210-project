@@ -15,7 +15,7 @@ Key components of the project include:
     * Seasonal Analysis: Examining reading patterns per season.
     * Statistical Testing: Conducting ANOVA tests to identify significant seasonal differences.
 
-* Visualization: Creating line charts, bar charts, stacked bar charts, and box plots for visual representation of data.
+* Visualization: Creating bar charts, line charts, stacked bar charts, and box plots for visual representation of data.
 
 * Machine Learning: Using linear regression models to predict future reading habits and analyzing model performance.
 
